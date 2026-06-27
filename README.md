@@ -4,5 +4,5 @@
 
 ## 功能
 - 学习 git add
-- 学习 git commit
+- 学习 git com
 - 学习 git push
